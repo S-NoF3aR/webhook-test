@@ -1,4 +1,4 @@
 ---
 - name: Test
-  ansible.builtin.msg
-  msg: "Test"
+  ansible.builtin.debug:
+    msg: "Test"
