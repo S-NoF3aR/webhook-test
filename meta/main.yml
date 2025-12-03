@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: test-role
   author: S-NoF3aR
   description: dummy role for ansible galaxy tests
   company: Enzler Inc
